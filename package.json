@@ -11,6 +11,7 @@
   },
   "devDependencies": {},
   "dependencies": {
+    "axios": "^0.20.0",
     "knex": "<0.20.0",
     "pg": "^8.3.2",
     "sqlite3": "^5.0.0",
