@@ -1,0 +1,8 @@
+{
+  "provider": "cloudinary",
+  "providerOptions": {
+    "cloud_name": "kunalgaurav4",
+    "api_key": "182141492619524",
+    "api_secret": "cgFiQyusu67dw4K7EK0xEYaY9e4"
+  }
+}
